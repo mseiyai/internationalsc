@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "international.sc.tz"
+
+theme = "hyde"
