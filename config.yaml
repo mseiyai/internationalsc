@@ -1,0 +1,21 @@
+---
+baseurl: "http://www.international.sc.tz"
+canonifyurls: false
+title: "Tanzania International Education"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+  tag: "tags"
+permalinks:
+  posts: "/:year/:month/:day/:title/"
+  about: "/:section/"
+languageCode: "en-us"
+author:
+  name: "Michael Seiyai"
+copyright: "2018"
+params:
+  mymasthead: "Tanzania International Education"
+DisqusShortname: "mseiyai@gmail.com"
+GoogleAnalytics: "UA-XXXXXXXX-1"
