@@ -1,7 +1,7 @@
 ---
 title: "Setting up a simple Blog with a Static Website Generator - Part 8: Hugo Post Archives Section"
 date: "2015-12-29"
-draft: "true"
+draft: "false"
 description: "This is an introduction to Hugo"
 categories:
     - "Education"

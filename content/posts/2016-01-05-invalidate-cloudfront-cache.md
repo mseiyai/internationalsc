@@ -1,7 +1,7 @@
 ---
 title: "Invalidating Cloudfront Cache"
 date: "2016-01-05"
-draft: "true"
+draft: "false"
 description: "This is an introduction to invalidating Cloudfront Cache"
 categories:
     - "Education"

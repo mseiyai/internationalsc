@@ -1,7 +1,7 @@
 ---
 title: "Setting up a simple Blog with a Static Website Generator - Part 7: Hugo Advanced Usage Troubleshooting and Debugging"
 date: "2015-12-27"
-draft: "true"
+draft: "false"
 description: "This is an introduction to Hugo"
 categories:
     - "Education"

@@ -1,7 +1,7 @@
 ---
 title: "Setting up a simple Blog with a Static Website Generator - Part 5: Lanyon CSS and static stuff"
 date: "2015-12-25"
-draft: "true"
+draft: "false"
 description: "This is an introduction to Hugo"
 categories:
     - "Education"

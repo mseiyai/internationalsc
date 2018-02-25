@@ -1,7 +1,7 @@
 ---
 title: "Setting up a simple Blog with a Static Website Generator - Part 8: Hugo About Section"
 date: "2015-12-30"
-draft: "true"
+draft: "false"
 description: "This is an introduction to Hugo"
 categories:
     - "Education"
