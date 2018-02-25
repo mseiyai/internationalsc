@@ -1,5 +1,5 @@
 ---
-baseurl: "https://www.international.sc.tz"
+baseurl: "https://www.international.sc.tz/"
 canonifyurls: false
 title: "Tanzania International Education"
 contentdir: "content"
@@ -17,5 +17,5 @@ author:
 copyright: "2018"
 params:
   mymasthead: "Tanzania International Education"
-  DisqusShortname: "internationalsc"
-  GoogleAnalytics: "UA-114687342-1"
+DisqusShortname: "internationalsc"
+GoogleAnalytics: "UA-114687342-1"
